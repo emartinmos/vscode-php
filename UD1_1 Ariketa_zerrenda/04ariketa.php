@@ -23,7 +23,6 @@ if ($a <= $b && $a <= $c) {
         echo "Txikienetik handienera: $c, $b, $a";
     }
 }
-
 //Handienetik txikienera
 if ($a >= $b && $a >= $c) {
     if ($b >= $c) {
